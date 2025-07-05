@@ -30,9 +30,9 @@ OWNER_NAME: getConfig("OWNER_NAME") || "🫆ᎷᏒ.ᒍ𝚯ᕼᗩᑎ ᒪ𝚰𝚵�
 // add bot owner name
 CHATBOT: getConfig("CHATBOT") || "on", 
 //chatbot on/off
-BOT_NAME: process.env.BOT_NAME || "MEGALODON-MD",
+BOT_NAME: process.env.BOT_NAME || "🫆ᎷᏒ.ᒍ𝚯ᕼᗩᑎ✞-MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "MEGALODON-MD",
+STICKER_NAME: process.env.STICKER_NAME || "🫆ᎷᏒ.ᒍ𝚯ᕼᗩᑎ ᒪ𝚰𝚵ᗷ𝚵ᖇ𝚻✞",
     
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -41,7 +41,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "50945160033",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "50943160033",
 // add your bot owner number
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -56,7 +56,7 @@ ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
 // make anti link true,false for groups 
 ANTIVIEW_ONCE: process.env.ANTIVIEW_ONCE || "true",
 ANTILINK_WARN: process.env.ANTILINK_WARN || "false",
-ANTILINK_KICK: process.env.ANTILINK_KICK || "false",
+ANTILINK_KICK: process.env.ANTILINK_KICK || "true",
 ANTILINK: process.env.ANTILINK || "false",
 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
