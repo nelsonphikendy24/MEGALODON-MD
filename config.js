@@ -26,11 +26,11 @@ MENU_IMAGE_URL: getConfig("MENU_IMAGE_URL") || "https://files.catbox.moe/2ozipw.
 // add custom menu and mention reply image url
 PREFIX: getConfig("PREFIX") || ".", 
 // add your prifix for bot   
-OWNER_NAME: getConfig("OWNER_NAME") || "🫆ᎷᏒ.ᒍ𝚯ᕼᗩᑎ ᒪ𝚰𝚵ᗷ𝚵ᖇ𝚻✞",
+OWNER_NAME: getConfig("OWNER_NAME") || "ᴅʏʙʏ ᴛᴇᴄʜ",
 // add bot owner name
 CHATBOT: getConfig("CHATBOT") || "on", 
 //chatbot on/off
-BOT_NAME: process.env.BOT_NAME || "🫆ᎷᏒ.ᒍ𝚯ᕼᗩᑎ ᒪ𝚰𝚵ᗷ𝚵ᖇ𝚻✞",
+BOT_NAME: process.env.BOT_NAME || "MEGALODON-MD",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "MEGALODON-MD",
     
@@ -63,7 +63,7 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // maks true for always online 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
-AUTO_TYPING: process.env.AUTO_TYPING || "true",
+AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
